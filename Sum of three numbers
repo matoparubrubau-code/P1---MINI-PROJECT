@@ -1,0 +1,10 @@
+SUM OF THREE NUMBERS
+
+print("SIMPLE NUMBER ADDER")
+
+first = float(input("Enter the first number: "))
+second = float(input("Enter the second number: "))
+third = float(input("Enter the third number: "))
+
+print("The total is:", total)
+print("Thanks for using the Number A
